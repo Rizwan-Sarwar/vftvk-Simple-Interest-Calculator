@@ -1,5 +1,6 @@
 function compute()
 {
+    debugger
     // p = document.getElementById("principal").value;
 
     var principal = document.getElementById("principal").value;
